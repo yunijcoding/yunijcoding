@@ -12,7 +12,7 @@
 ### ✔️DB
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=green">
 
-### ✔️[Github Repo](http://github.com/webproject01)
+### ✔️[Github Repo](https://github.com/yunijcoding/webproject01)
 
 <br/><br/><table>
   <tbody>
