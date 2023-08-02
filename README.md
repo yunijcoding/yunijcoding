@@ -15,7 +15,9 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=green"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=green"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=green">
 
 ## ✔️교육이수
-
+#### 기관명: 더조은컴퓨터에듀
+#### 과정명: 빅데이터 분석(with Python)과 엘라스틱 서치를 활용한 자바 웹 개발
+#### 기간: 2022/12/07 ~ 2023/07/21
 
 ## ✔️[Project Repo](https://github.com/yunijcoding/webproject)
 
