@@ -27,7 +27,7 @@
 
 <br/>
 
-## ✔️[Project Repo](https://github.com/yunijcoding/webproject)
+## ✔️[Project Github 이동](https://github.com/yunijcoding/webproject)
 
 <br/>
 
