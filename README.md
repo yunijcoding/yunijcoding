@@ -1,10 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ILJUN's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-## ✔️소개
-#### <p align="center">안녕하세요. 제 이름은 윤일준입니다.</p>
-#### <p align="center">어제보다 나은 오늘, 오늘보다 발전할 내일을 위해</p> 
-#### <p align="center">열심히 노력하겠습니다. 잘 부탁드립니다.</p>
-
 <br/>
 
 ## ✔️기술
